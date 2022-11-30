@@ -10,5 +10,4 @@ Repositório dos meus projetos de Ciência de Dados e Machine Learning
 
 [Zoneamento de Risco Climático - Séries Temporais e Classificação](https://github.com/laym0ura/projetos_ciencia_de_dados/blob/main/projeto_zoneamento_clim%C3%A1tico.ipynb)
 
-[Classificação de Roupas - Redes Neurais]
-(https://github.com/laym0ura/projetos_ciencia_de_dados/blob/main/projeto_zoneamento_clim%C3%A1tico.ipynb)
+[Classificação de Roupas - Redes Neurais](https://github.com/laym0ura/projetos_ciencia_de_dados/blob/main/CLASSIFICA%C3%87%C3%83O_DE_ROUPAS_COM_CNN.ipynb)
